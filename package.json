@@ -1,12 +1,12 @@
 {
-  "name": "vatsal_tennis_application",
+  "name": "marc_tennis_application",
   "version": "1.0.0",
-  "description": "Tennis Application Created by Vatsal Shah ",
+  "description": "Tennis Application Created by Marc Vaccaro",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vatsal shah",
+  "author": "Marc Vaccaro",
   "license": "ISC",
   "dependencies": {
 
